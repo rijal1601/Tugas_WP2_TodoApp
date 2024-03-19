@@ -1,3 +1,4 @@
 # Tugas_WP2_TodoApp
 
-# Nama : Muhammad Ikhtiar Rijalludin
+Tugas : Web Programing 2
+Nama : Muhammad Ikhtiar Rijalludin
