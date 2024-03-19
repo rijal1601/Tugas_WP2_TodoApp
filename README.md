@@ -1,4 +1,3 @@
 # Tugas_WP2_TodoApp
 
-# Tugas WP2
-# Muhammad Ikhtiar Rijalludin
+# Nama : Muhammad Ikhtiar Rijalludin
